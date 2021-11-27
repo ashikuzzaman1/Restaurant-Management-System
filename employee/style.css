@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Lakki+Reddy&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	outline: none; 
+	font-family: 'Lakki Reddy', cursive;
+}
+
+body{
+ 
+	background: url('jj.jpg');
+	background-size: cover;
+	height: 100vh;
+	
+}
+
+
+	
+	
